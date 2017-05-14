@@ -29,6 +29,7 @@ Debug=0
 Verbose=0
 LogLocal=''
 # Hey
+# Hey 2
 UpdateFile='/var/tmp/updatecount.txt'
 ScriptPath="$(readlink -f "$0")"
 ScriptName="$(basename "$ScriptPath")"
